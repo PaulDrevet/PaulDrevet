@@ -7,7 +7,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Competences
 <table><tr><td valign="top" width="33%">
 
 
